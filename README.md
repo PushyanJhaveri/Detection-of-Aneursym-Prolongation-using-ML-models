@@ -1,6 +1,6 @@
-# Aneurysm Pressure Prediction using 3D Geometry
+# Aneurysm Prediction using 3D Geometry
 
-This project predicts pressure, velocity-gradient and wall shear stress in cerebral vasculature using machine learning models trained on geometrical and physical features extracted from DICOM-derived datasets.
+This project predicts pressure, velocity-gradient and wall shear stress in cerebral vasculature using machine learning models trained on geometrical and physical features extracted from DICOM-derived datasets. It helps to predict about the prolongation in aneurysm.
 
 ---
 
